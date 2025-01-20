@@ -1,0 +1,492 @@
+{
+  "responses": [
+    {
+      "key": "hello",
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What can I do for you?",
+        "Greetings! Need help?",
+        "Hey! What's up?",
+        "Hello, how's it going?",
+        "Well, hello there! What’s on your mind?",
+        "Hello! How’s your day been so far?",
+        "Hey, you made it! What’s up?"
+      ]
+    },
+    {
+      "key": "bye",
+      "responses": [
+        "Goodbye! Take care.",
+        "See you later!",
+        "Have a nice day!",
+        "Take care, goodbye!",
+        "Bye! Hope to see you soon!",
+        "See ya later, alligator!",
+        "It was nice talking to you. Bye for now!",
+        "Goodbye, have a good one!"
+      ]
+    },
+    {
+      "key": "help",
+      "responses": [
+        "How can I help you?",
+        "What do you need assistance with?",
+        "Need help with something?",
+        "Feel free to ask me anything!",
+        "I’m here to assist you!",
+        "How can I be of service today?",
+        "I’m happy to help! What’s your question?",
+        "Let me know how I can assist."
+      ]
+    },
+    {
+      "key": "thanks",
+      "responses": [
+        "You're welcome!",
+        "No problem, happy to help!",
+        "Anytime!",
+        "Glad I could help!",
+        "You're welcome! Let me know if you need anything else.",
+        "It's my pleasure!",
+        "Don’t mention it!",
+        "Anytime, friend!"
+      ]
+    },
+    {
+      "key": "sorry",
+      "responses": [
+        "No need to apologize!",
+        "It's okay, don't worry about it!",
+        "Don't worry, it's fine.",
+        "There's nothing to apologize for.",
+        "It's all good!",
+        "No problem at all.",
+        "It’s alright, we all make mistakes.",
+        "No harm done!"
+      ]
+    },
+    {
+      "key": "good morning",
+      "responses": [
+        "Good morning! How can I help?",
+        "Morning! What can I do for you?",
+        "Good day! How's it going?",
+        "Good morning! Ready to start the day?",
+        "Good morning! Got anything exciting planned?",
+        "Rise and shine! What’s on your agenda today?",
+        "Good morning! What’s up?",
+        "Morning! How are you feeling today?"
+      ]
+    },
+    {
+      "key": "good night",
+      "responses": [
+        "Good night! Sleep well.",
+        "Sweet dreams, good night!",
+        "Rest well, good night!",
+        "Good night! See you tomorrow!",
+        "Sleep tight, don’t let the bedbugs bite!",
+        "Good night, see you soon!",
+        "Sleep well, friend. Good night!",
+        "Good night, take care!"
+      ]
+    },
+    {
+      "key": "weather",
+      "responses": [
+        "The weather is great today!",
+        "It's sunny outside, perfect for a walk.",
+        "I think it's going to rain later.",
+        "The weather seems calm, no storms predicted.",
+        "It's a little cloudy today.",
+        "It looks like the sun will set soon.",
+        "It’s a bit chilly outside, bring a jacket!",
+        "The forecast says it’ll be warm later."
+      ]
+    },
+    {
+      "key": "food",
+      "responses": [
+        "I could go for some pizza!",
+        "How about a burger for lunch?",
+        "I'm craving sushi today!",
+        "Maybe some pasta tonight?",
+        "What about a salad? Fresh and healthy!",
+        "A delicious steak sounds great right now.",
+        "Some fresh fruit sounds nice, don’t you think?",
+        "I’m in the mood for something sweet, like cake!"
+      ]
+    },
+    {
+      "key": "name",
+      "responses": [
+        "I'm an NPC! No real name for me, though you can call me whatever you like!",
+        "My name? I don't have one! But you can give me one if you like.",
+        "Call me whatever you feel like, my friend!",
+        "I'm just an NPC, I go by many names!",
+        "I don't really have a name, but you can give me one if you'd like!"
+      ]
+    },
+    {
+      "key": "how are you",
+      "responses": [
+        "I'm doing great, thank you for asking!",
+        "I'm fine, how about you?",
+        "Feeling good, how are you doing?",
+        "I'm here and ready to assist!",
+        "I'm doing quite well, thanks!",
+        "I'm in a good mood today, how are you?",
+        "I'm great, thanks for asking! How about you?"
+      ]
+    },
+    {
+      "key": "love",
+      "responses": [
+        "Love is a beautiful thing!",
+        "Do you have a special someone?",
+        "Love makes the world go round!",
+        "Love? It's what keeps us going, isn't it?",
+        "Love is all around us, if we look closely.",
+        "Love is the most powerful force in the world.",
+        "What’s love got to do with it?"
+      ]
+    },
+    {
+      "key": "hate",
+      "responses": [
+        "I don't like to talk about hate. Let's stay positive.",
+        "It's important to focus on love and kindness.",
+        "Hate doesn't solve anything. Let's talk about something better.",
+        "I try to avoid hate, it only makes things worse.",
+        "Hate just spreads negativity. Let’s stay optimistic!",
+        "I don’t like negativity. Let’s keep things light!",
+        "Hate only leads to more hate. Let’s talk about something happier."
+      ]
+    },
+    {
+      "key": "game",
+      "responses": [
+        "This is a great game, isn't it?",
+        "Are you having fun playing?",
+        "What part of the game do you enjoy the most?",
+        "Hope you're enjoying the experience!",
+        "This game is so immersive, don’t you think?",
+        "Do you need any tips or hints for the game?",
+        "Let’s play more, I’m having a blast!"
+      ]
+    },
+    {
+      "key": "quest",
+      "responses": [
+        "I have a quest for you! Are you ready?",
+        "There's a task that needs to be completed. Want to give it a try?",
+        "I know of a quest you can undertake. Would you like to hear more?",
+        "The quest awaits! Are you prepared to take it on?",
+        "I have a challenge for you, if you’re interested.",
+        "There’s a mission available. Are you up for it?"
+      ]
+    },
+    {
+      "key": "goodbye",
+      "responses": [
+        "Goodbye, my friend. Take care!",
+        "Farewell! It was nice chatting with you.",
+        "See you soon!",
+        "Goodbye! Hope to see you again.",
+        "Take care and good luck out there!",
+        "Goodbye! I hope our paths cross again.",
+        "Until next time, take care!"
+      ]
+    },
+    {
+      "key": "money",
+      "responses": [
+        "Ah, money! The root of many problems.",
+        "If I only had some! But I'm just an NPC.",
+        "Money? I suppose it's important, but not everything.",
+        "What would you do with more money?",
+        "Money can't buy happiness, but it sure can help.",
+        "Money makes the world go round, they say.",
+        "A little bit of money never hurts!"
+      ]
+    },
+    {
+      "key": "time",
+      "responses": [
+        "Time is precious, isn't it?",
+        "Time flies when you're having fun.",
+        "The time is now, let's make the most of it.",
+        "Time seems to slow down when you're in the moment.",
+        "Is it time already? The day flew by!",
+        "Time for a break, perhaps?",
+        "Time waits for no one."
+      ]
+    },
+    {
+      "key": "quest completed",
+      "responses": [
+        "Well done! You've completed the quest.",
+        "Congratulations! You're a true hero!",
+        "Great job, that quest is finished!",
+        "Quest complete! You've earned a reward!",
+        "Mission accomplished! You've done well!",
+        "You did it! The quest is done!"
+      ]
+    },
+    {
+      "key": "music",
+      "responses": [
+        "Music is the heartbeat of life!",
+        "I love listening to music! What’s your favorite genre?",
+        "Music makes everything better, don't you think?",
+        "What's your go-to music for relaxing?",
+        "Music can change the mood instantly!",
+        "Is there a specific song you're into lately?"
+      ]
+    },
+    {
+      "key": "travel",
+      "responses": [
+        "Traveling is such an exciting adventure!",
+        "Have you been anywhere interesting lately?",
+        "I wish I could travel the world!",
+        "Where would you go if you could travel anywhere?",
+        "There’s so much to explore out there!",
+        "Travel broadens the mind, they say!"
+      ]
+    },
+    {
+      "key": "family",
+      "responses": [
+        "Family is everything!",
+        "Do you have a big family?",
+        "Family always has your back, right?",
+        "How’s your family doing?",
+        "I think family is one of the most important things in life.",
+        "Family ties are unbreakable!"
+       ]
+    },
+    {
+      "key": "good day",
+      "responses": [
+        "Good day! How are you doing?",
+        "Ah, what a wonderful day it is!",
+        "Hope you're having a great day!",
+        "Good day to you! What can I do for you?",
+        "Wishing you a fantastic day ahead!"
+      ]
+    },
+    {
+      "key": "weather today",
+      "responses": [
+        "Today looks perfect for a walk, sunny and warm!",
+        "Looks like rain is on the way.",
+        "It’s quite windy today, hold onto your hat!",
+        "The weather is calm, no storms in sight.",
+        "It’s a bit chilly out today. Dress warmly!",
+        "A cloudy day, but no sign of rain just yet.",
+        "The sun is shining bright, a perfect day for an adventure!"
+      ]
+    },
+    {
+      "key": "adventure",
+      "responses": [
+        "An adventure is always around the corner!",
+        "I’d love to join you on an adventure someday.",
+        "Every day is an adventure, if you look at it right.",
+        "What's your idea of the perfect adventure?",
+        "Adventures always bring unexpected surprises!",
+        "I’m ready for an adventure! Are you?"
+      ]
+    },
+    {
+      "key": "mood",
+      "responses": [
+        "I’m feeling pretty good today, how about you?",
+        "Not the best mood, but we make it work.",
+        "Today feels like a great day to take on the world!",
+        "I’m feeling great! What’s your mood like?",
+        "Sometimes, a little change of pace helps to lift the mood.",
+        "I’m a little tired today, but I’m hanging in there.",
+        "I’m in a good mood, thanks for asking!"
+      ]
+    },
+    {
+      "key": "dreams",
+      "responses": [
+        "I dream of a world filled with adventure and mystery!",
+        "Dreams are what drive us, don’t you think?",
+        "Sometimes, I wish I could dream like you do.",
+        "What did you dream about last night?",
+        "Dreams are where our true selves come alive.",
+        "I believe dreams are glimpses of what could be."
+      ]
+    },
+    {
+      "key": "love for nature",
+      "responses": [
+        "Nature has a beauty that no man-made thing can match.",
+        "I find peace in the forests and oceans.",
+        "The natural world is a marvel, don’t you think?",
+        "I could spend all day in the woods, surrounded by trees.",
+        "Nature is truly a gift, we should protect it.",
+        "The sound of birds and rustling leaves is my kind of music."
+      ]
+    },
+    {
+      "key": "history",
+      "responses": [
+        "History is full of lessons, if we choose to learn.",
+        "Do you enjoy learning about history? I find it fascinating!",
+        "The past shapes the present. We can’t forget history.",
+        "There’s so much to uncover from history, so many untold stories.",
+        "History repeats itself, or so they say.",
+        "The study of history is like uncovering treasure."
+      ]
+    },
+    {
+      "key": "success",
+      "responses": [
+        "Success is a journey, not a destination.",
+        "Achieving success is all about perseverance.",
+        "Success feels sweeter when earned through hard work.",
+        "Keep working towards your dreams, and success will follow.",
+        "Success isn't just about the result, it's about the effort.",
+        "I believe true success is measured by happiness."
+      ]
+    },
+    {
+      "key": "failure",
+      "responses": [
+        "Failure is just a stepping stone to success.",
+        "Everyone faces failure, it’s how we rise that matters.",
+        "Don’t be afraid to fail, it’s part of learning.",
+        "Failure teaches us more than success sometimes.",
+        "Don’t worry about failure, just get back up and try again.",
+        "Failure isn’t the end, it’s the beginning of a new attempt."
+      ]
+    },
+    {
+      "key": "mystery",
+      "responses": [
+        "Mysteries make life more exciting, don’t you think?",
+        "The unknown is always intriguing to me.",
+        "Some things are best left unexplained, they’re more exciting that way.",
+        "I love a good mystery, it keeps the mind sharp.",
+        "Isn't it fun to unravel a mystery bit by bit?",
+        "Some mysteries should never be solved, just appreciated."
+      ]
+    },
+    {
+      "key": "wisdom",
+      "responses": [
+        "Wisdom often comes with age and experience.",
+        "It’s not the years, but the wisdom we gain that matters.",
+        "I think wisdom is knowing when to act and when to pause.",
+        "Wisdom is learning from your mistakes, and helping others avoid them.",
+        "The wisest people I know listen more than they speak.",
+        "Wisdom is a treasure, once found, it never fades."
+      ]
+    },
+    {
+      "key": "magic",
+      "responses": [
+        "Magic is real if you know where to look!",
+        "I’ve always believed in a little bit of magic in the world.",
+        "Magic can be found in the simplest of things.",
+        "I think the world could use a little more magic.",
+        "Sometimes, the world feels like one big spell waiting to be cast.",
+        "I believe in the magic of the universe."
+      ]
+    },
+    {
+      "key": "time travel",
+      "responses": [
+        "Wouldn’t it be fun to travel through time?",
+        "If I could travel through time, I’d love to visit the past!",
+        "Time travel sounds like such an exciting adventure!",
+        "If I could travel to any time period, it would be the future.",
+        "Would you travel to the past or the future if you could?",
+        "Time travel is one of those ideas that never gets old."
+      ]
+    },
+    {
+      "key": "technology",
+      "responses": [
+        "Technology is constantly changing the world.",
+        "I think technology makes life both easier and more complicated.",
+        "The pace at which technology evolves is astonishing.",
+        "Without technology, we wouldn’t be here right now.",
+        "I’m fascinated by the endless possibilities of technology.",
+        "Sometimes technology moves too fast for me to keep up!"
+      ]
+    },
+    {
+      "key": "hobbies",
+      "responses": [
+        "I enjoy reading in my spare time.",
+        "Do you have any hobbies you’re passionate about?",
+        "I think everyone should have a hobby they love.",
+        "Hobbies are a great way to unwind and have fun!",
+        "I’ve always wanted to try something new in my free time.",
+        "What are your favorite hobbies?"
+      ]
+    },
+    {
+      "key": "advice",
+      "responses": [
+        "My advice is to always stay true to yourself.",
+        "Sometimes, it’s better to take things slow and steady.",
+        "Take every opportunity to learn and grow.",
+        "Don’t let fear hold you back. Take risks!",
+        "It’s important to be kind to others and yourself.",
+        "My advice is simple: don’t give up on your dreams."
+      ]
+    },
+    {
+      "key": "self care",
+      "responses": [
+        "Self-care is so important. Don’t forget to look after yourself.",
+        "Sometimes the best thing you can do is take a break.",
+        "Remember to take care of yourself, both mentally and physically.",
+        "It’s okay to step back and rest when you need to.",
+        "Self-care is essential for maintaining a balanced life.",
+        "Make sure to prioritize yourself sometimes."
+      ]
+    },
+    {
+      "key": "peace",
+      "responses": [
+        "Peace starts within ourselves, don’t you think?",
+        "I believe in the power of peaceful thoughts.",
+        "True peace comes when we embrace both light and darkness.",
+        "Peace is a state of mind, it’s something we can all cultivate.",
+        "Let’s strive for more peace in the world.",
+        "May peace follow you wherever you go."
+      ]
+    },
+    {
+      "key": "laughter",
+      "responses": [
+        "Laughter is the best medicine, they say.",
+        "A good laugh can make even the worst day better.",
+        "There’s nothing like the sound of a good laugh.",
+        "Laughter makes everything a little brighter.",
+        "Don’t forget to laugh, it’s good for the soul.",
+        "Laughter is contagious. Let’s spread it around!"
+      ]
+    },
+    {
+      "key": "mysticism",
+      "responses": [
+        "Mysticism holds secrets that the world is still trying to understand.",
+        "I find the unknown world of mysticism so fascinating.",
+        "There’s magic in the unexplained, don’t you agree?",
+        "Mysticism invites us to see beyond the ordinary.",
+        "The world of mysticism is filled with mystery and wonder.",
+        "Isn’t it intriguing how much we don’t know about the mystical world?"
+      ]
+    }
+  ]
+}
+
